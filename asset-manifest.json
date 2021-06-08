@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactivistas/static/css/main.f0d98e67.chunk.css",
+    "main.js": "/reactivistas/static/js/main.f095f81b.chunk.js",
+    "main.js.map": "/reactivistas/static/js/main.f095f81b.chunk.js.map",
+    "runtime-main.js": "/reactivistas/static/js/runtime-main.bd9f1106.js",
+    "runtime-main.js.map": "/reactivistas/static/js/runtime-main.bd9f1106.js.map",
+    "static/js/2.c78cdcf7.chunk.js": "/reactivistas/static/js/2.c78cdcf7.chunk.js",
+    "static/js/2.c78cdcf7.chunk.js.map": "/reactivistas/static/js/2.c78cdcf7.chunk.js.map",
+    "static/js/3.38cfb624.chunk.js": "/reactivistas/static/js/3.38cfb624.chunk.js",
+    "static/js/3.38cfb624.chunk.js.map": "/reactivistas/static/js/3.38cfb624.chunk.js.map",
+    "index.html": "/reactivistas/index.html",
+    "static/css/main.f0d98e67.chunk.css.map": "/reactivistas/static/css/main.f0d98e67.chunk.css.map",
+    "static/js/2.c78cdcf7.chunk.js.LICENSE.txt": "/reactivistas/static/js/2.c78cdcf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd9f1106.js",
+    "static/js/2.c78cdcf7.chunk.js",
+    "static/css/main.f0d98e67.chunk.css",
+    "static/js/main.f095f81b.chunk.js"
+  ]
+}
